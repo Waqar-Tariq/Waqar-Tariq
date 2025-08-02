@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Waqar-Tariq
--    I'm a Computer Science gradute
+-    I'm a Computer Science graduate
      📫 How to reach me waqartariq924@gmail.com
 
 <!---
